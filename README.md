@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Student looking to collaborate on open source projects
+
 <!--
 **mamkat2007/mamkat2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
